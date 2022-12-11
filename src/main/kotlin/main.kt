@@ -1,11 +1,11 @@
 package ru.netology
 
 fun main() {
-    val buyAmount = 100 // сумма покупки
+    val buyAmount = 10100 // сумма покупки
     val discount = 100 // скидка 100 руб
     val discount5 = 5 // скидка 5%
     val discountCustomer = 1 // скидка 1% пост. клиенту
-    val regularCustomer = false // пост. клиент или нет
+    val regularCustomer = true // пост. клиент или нет
 
     var discountPrice = 0
 
